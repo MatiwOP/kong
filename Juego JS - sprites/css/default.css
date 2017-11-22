@@ -1,0 +1,14 @@
+
+#lienzo{
+	border: 2px solid;
+	border-radius: 15px;
+	border-color: black;
+	background-image: url("../imagenes/fondo.jpg");
+}
+
+#kong,#barril{
+	width:50px;
+	height:50px;
+	visibility: hidden;
+	display: none;
+}
